@@ -1,6 +1,6 @@
 # Hawking Game
 
-A game I wrote for practice/fun. Hawking chases you around space, and he's relatively good at chasing you if you are in his field of vision. The twist you can hop away by going down a wormhole (@).
+A game I wrote for practice/fun. Hawking chases you around space, and he's relatively good at chasing you if you are in his field of vision. The twist is you can hop away by going down a wormhole (@).
 
 When you run the program file from the terminal, you can optionally include two arguments to specify the dimensions of the star-field. Between 5 and 20 square is probably the best way to spend your evening.
 
